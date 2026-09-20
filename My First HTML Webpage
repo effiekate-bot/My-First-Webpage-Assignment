@@ -1,0 +1,34 @@
+<body>
+<title> Effie's Diamond Painting Site </title>
+<br>
+<h1> Welcome to my Diamond Painting Site </h1>
+<h2> Diamond painting is something I picked up as a stress relief habit and I fell in love with it. This site is a place to share that love </h2>
+
+</body>
+<br> 
+<aside></aside>
+
+<article>
+    <h2> What is Diamond Painting? </h2>
+	<br>
+    <p> Diamond painting is almost like a mix of bedazzling and paint by number. You have a canvas or other surface with a design and bags of tiny gems with numbers that match a legend almost, like you would have for paint by number projects.</p>
+    <p> There are different tools that you can use for diamond painting. Most kits come with a pen that allows you to place one gem at a time, but that is not your only option. You can get longer attachments for the pen, or a roller for larger parts of the project. You can even get pens that have a light on them to make it easier to see what you're doing. </p>
+    <p> There's a vast amount of places to get these kits from, I will have some of my favorites listed in the tips. You can get all kind of kits from holidays or seasons to movies, animals, even your favorite singers sometimes.</p>
+</article>
+<br>
+<footer>
+    <p>Happy painting everyone!</p>
+</footer>
+<body>
+<br>
+<a href="tips.html"> <a href="https://www.hobbylobby.com/search?query=diamond%20painting"> One of my favorite places for seasonal kits is Hobby Lobby because of the constant sales! </a>
+<br>
+<a href="tips.html"> <a href="https://www.michaels.com/search?q=diamond%20paintings">  Michaels is another good place for diamond painting kits. Their sales aren't always comperable to Hobby Lobby but they have a wider range of options, especially for Halloweeen </a>
+<br>
+<a href="tips.html"> <a href="https://www.amazon.com/s?k=diamond+painting+accessories&crid=1W98DF5XV9CEC&sprefix=diamond+painting+%2Caps%2C170&ref=nb_sb_ss_p13n-expert-pd-ops-ranker_1_17"> Amazon is a prime place to get accessories and tools for diamond painting. Anything you want to try out as a tool, it's more than likely found there. Check it out!</a>
+<br>
+<picture>
+    <img src="https://www.pennstateind.com/mm5/graphics/00000001/7/PKDIACH_959x960.jpg" alt="An example of a tool that come with extra attachments for ease while diamond painting. Found on mulitple sites." width="500" height="600">
+<br>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu7PeapJuhF1KymK7DQc8nSzn0TOVZxMcNyxf0lPZMEV5x_Q_I1nLsFQiU&s=10" alt="An example of a fall diamond painting kit. This one has about 24 colors and has taken me a year to complete!" width="500" height="600">
+</picture>
